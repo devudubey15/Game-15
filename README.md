@@ -36,6 +36,24 @@ git clone https://github.com/your-username/8-Puzzle-Game.git
 - To make a move, enter the number adjacent to the empty space.
 - Follow the prompts to continue making moves until you reach the winning configuration.
 
+  **Initial Configuration:**
+  8 7 6
+  5 4 3
+  2 1 _
+
+  
+**Target Configuration:**
+1 2 3
+4 5 6
+7 8 _
+
+
+**Moves:**
+- Slide tile '3' to the empty space by pressing 3.
+  8 7 6
+  5 4 _
+  2 1 3
+
 ## Implementation Details
 
 ### Draw Functions:
