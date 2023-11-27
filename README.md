@@ -37,20 +37,65 @@ git clone https://github.com/your-username/8-Puzzle-Game.git
 - Follow the prompts to continue making moves until you reach the winning configuration.
 
   **Initial Configuration:**
-  | 8 | 7 | 6 |
-  | 5 | 4 | 3 |
-  | 2 | 1 | _ |
+   <table>
+  <tr>
+    <td>8</td>
+    <td>7</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>1</td>
+    <td>_</td>
+  </tr>
+</table>
   
   **Target Configuration:**
-  | 1 | 2 | 3 |
-  | 4 | 5 | 6 |
-  | 7 | 8 | _ |
+  <table>
+  <tr>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>5</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>8</td>
+    <td>_</td>
+  </tr>
+</table>
+
 
   **Moves:**
   - Slide tile '3' to the empty space by pressing 3.
-  | 8 | 7 | 6 |
-  | 5 | 4 | _ |
-  | 2 | 1 | 3 |
+  Slide tile '3' to the empty space by pressing 3.
+<table>
+  <tr>
+    <td>8</td>
+    <td>7</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>4</td>
+    <td>_</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>1</td>
+    <td>3</td>
+  </tr>
+</table>
+
 
 
 ## Implementation Details
