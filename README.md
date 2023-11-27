@@ -77,7 +77,7 @@ git clone https://github.com/your-username/8-Puzzle-Game.git
 
   **Moves:**
   - Slide tile '3' to the empty space by pressing 3.
-  Slide tile '3' to the empty space by pressing 3.
+  
 <table>
   <tr>
     <td>8</td>
