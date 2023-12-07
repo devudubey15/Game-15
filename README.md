@@ -2,7 +2,7 @@
 
 ## Overview
 
-The 8-Puzzle Game, also known as Game 15, is a classic sliding puzzle that challenges players to rearrange numbered tiles in a 3x3 grid to reach a target configuration. This C++ application allows you to play and solve the 8-Puzzle, providing a simple interface for moves and displaying the current and winning configurations.
+The 8-Puzzle Game, also known as Game 15, is a classic sliding puzzle that challenges players to rearrange numbered tiles in a 3x3 grid to reach a target configuration. This C++ application allows you to play and solve the 8-Puzzle, providing a simple interface for moves and displaying the current and winning configurations
 
 ## Features
 
